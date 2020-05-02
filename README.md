@@ -1,1 +1,3 @@
 # covid-19data_in_china
+get_data文件为使用python爬虫技术从百度疫情地图获取疫情数据并写入到Excel文件中.
+get_data_and_draw_map.py文件为使用python爬虫从百度疫情数据获取数据并使用json模块解析数据,再用pyecharts绘制疫情地图.
